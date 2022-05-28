@@ -1,5 +1,5 @@
 The source files are assembled into a rom using [**rgbds**](https://github.com/bentley/rgbds).
-These instructions explain how to set up the tools required to build.
+These instructions explain how to = up the tools required to build.
 
 If you run into trouble, ask on irc ([**freenode#pret**](https://kiwiirc.com/client/irc.freenode.net/?#pret)).
 
@@ -63,7 +63,7 @@ In the **Cygwin terminal**:
 
 ```bash
 
-git clone --recursive https://github.com/pret/pokecrystal
+git clone --recursive https://github.com/bvolesky/PokemonPerfectCrystalAlternativeStarter
 cd pokecrystal
 ```
 
