@@ -1,6 +1,6 @@
 
 ; pokemon
-const_value = 1
+const_value set 1
 	const BULBASAUR
 	const IVYSAUR
 	const VENUSAUR
